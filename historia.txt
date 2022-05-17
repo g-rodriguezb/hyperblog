@@ -9,3 +9,7 @@ Estoy haciendo prueba, este si le voy a hacer commit
 No entiendo qué pasa en realidad --con el checkout también debería de irse esto.
 
 Este segundo no es lo que se debería de borrar ahorita con el restore
+
+Este le voy a dar add y dejarlo en la RAM
+
+No sé qué viene ahorita, ya vamos a ver. Cuál es la dif entre checkout y restore?
